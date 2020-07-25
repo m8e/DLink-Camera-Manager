@@ -1,6 +1,9 @@
 ## D-Link Camera Manager (Connect).
 ----
 
+See forum post here
+https://community.smartthings.com/t/release-d-link-camera-manager-connect-add-your-d-link-ip-cameras-to-smartthings-video-streaming-image-capture-motion-detection-and-more/46250/1
+
 This SmartApp will allow you to install and manage multiple D-Link Camera Devices.Finally, a one-stop shop for all of your D-Link IP camera needs.
 
 I have created these devices in order to add additional functionality to existing supported D-Link cameras and to add compatibility for many that are not natively supported. All cameras feature In-App Video streaming, snapshots and the ability to toggle motion detection. Some cameras support much much more, see the feature and compatibility chart below!
